@@ -6,5 +6,6 @@ def foo():
     if not bar:
         return True
 ```
-		
-        
+
+# Cómo contribuir
+En [CONTRIBUTING.md](CONTRIBUTING.md) están las instrucciones detalladas.
