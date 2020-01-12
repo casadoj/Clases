@@ -1,4 +1,4 @@
-# GISH Hidrologia
+# GISH Hidrología
 Ejercicios de la asignatura _Hidrología_ del _Master en Gestión Ingegral de Sistemas Hídricos_ de la Universidad de Cantabria.
 
 Se incluyen, en sus correspondientes carpetas, los ejercicios de dos temas: [precipitación](https://github.com/casadoj/GISH_Hidrologia/tree/master/Precipitacion) y [agua subterránea](https://github.com/casadoj/GISH_Hidrologia/tree/master/AguaSubterranea). La organización de cada una de estas carpetas es idéntica:
