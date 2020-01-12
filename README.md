@@ -1,5 +1,5 @@
 # GISH Hidrologia
-Ejercicios de la asignatura "Hidrología" del Master en Gestión Ingegral de Sistemas Hídricos de la Universidad de Cantabria.
+Ejercicios de la asignatura _Hidrología_ del _Master en Gestión Ingegral de Sistemas Hídricos_ de la Universidad de Cantabria.
 
 ```python
 def foo():
