@@ -1,0 +1,11 @@
+COD_SAIH,COD_ROEA,RED,SISTEMA,CUENCA,RIO,UBICACION,MUNICIPIO,PROVINCIA,X_ETRS89_UTM,Y_ETRS89_UTM,precip,caudal,nivel,Taire,amonio,conduct,oxigeno,pH,Tagua,turbidez,inicio,fin
+A078,1268,CHC,Deva,Deva,Deva,Rio Deva en Puentelles,PeÃ±amellera Baja,Asturias,369676.7,4797287.7,1,1,1,1,0,0,0,0,0,0,2008-10-28,2019-05-31
+N078,1262,CHC,Gandarilla,Nansa,Escudo,RÃ­o Escudo en Roiz (Las Cuevas),ValdÃ¡liga,Cantabria,390470.5,4798221.6,1,0,1,1,0,0,0,0,0,0,2011-11-03,2019-05-31
+E055,1242,CHC,Saja,Saja-Besaya,Saja,RÃ­o Saja en el Azud del Puente San Miguel,Torrelavega,Cantabria,412801.1,4801214.2,1,0,1,1,0,0,0,0,0,0,2011-10-21,2019-05-31
+A707,1246,CHC,Saja,Saja-Besaya,Saja,RÃ­o Saja en Ruente,Ruente,Cantabria,398838.0,4792183.3,1,0,1,1,0,0,0,0,0,0,2012-05-28,2019-05-31
+Q119,1244,CHC,Saja,Saja-Besaya,Besaya,Rio Besaya en Arenas de IguÃ±a,Arenas de IguÃ±a,Cantabria,413866.1,4784213.9,1,0,1,1,0,0,0,0,0,1,2009-03-20,2019-05-31
+Q104,1216,CHC,Pas-Miera,Pas,Pas,Rio Pas en Carandia,PiÃ©lagos,Cantabria,421371.4,4798299.1,1,1,1,1,0,0,0,0,0,0,2009-03-31,2019-05-31
+A705,1217,CHC,Pas-Miera,Pas,PisueÃ±a,RÃ­o PisueÃ±a en La Penilla,Sta. MarÃ­a de CayÃ³n,Cantabria,428962.7,4796453.3,1,1,1,1,0,0,0,0,0,0,2011-11-03,2019-05-31
+Q118,1206,CHC,Pas-Miera,Miera,Miera,Rio Miera en Puente AgÃ¼ero,Entrambasaguas,Cantabria,441808.9,4806119.9,1,0,1,1,0,0,0,0,0,0,2009-03-25,2019-05-31
+N045,1204,CHC,Pas-Miera,Miera,Campiazo,RÃ­o Campiazo en Beranga,Beranga,Cantabria,453078.0,4806904.4,1,1,1,1,0,0,0,0,0,0,2011-03-10,2019-05-31
+A706,1193,CHC,AsÃ³n,Ason,AsÃ³n,RÃ­o GÃ¡ndara en La GÃ¡ndara,Soba,Cantabria,453786.5,4782628.2,1,0,0,1,0,0,0,0,0,0,2012-02-02,2019-05-31
